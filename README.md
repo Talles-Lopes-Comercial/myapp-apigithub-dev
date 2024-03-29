@@ -1,5 +1,6 @@
-# Aplicação template
+Projeto Com um template basico da dev samurai 
 
-Esta é uma aplicação gerada pelo template [React básico da Dev Samurai](https://github.com/DevSamurai/cra-template-basic).
+Esse projeto foi criado com o intuito de aprender sobre, templates react, fundamentos react e rota
+Bem legal pq vai desde do fronte ate back end.
 
-Depois que criar a sua aplicação, sobrescreva este arquivo README.md utilizando as [melhores práticas](https://www.makeareadme.com/) para isso.
+qualer pessoa que queira agregar a esse projeto e bem vinda!!!!!
